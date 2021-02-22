@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>This is a sample prp application
+        <div>This is a second sample prp application
         </div>
     </form>
 </body>
